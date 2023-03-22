@@ -24,4 +24,5 @@
 <br>
 
 ![My Skills](https://skills.thijs.gg/icons?i=js,ts,html,css,nextjs,react,tailwind)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" />
 
