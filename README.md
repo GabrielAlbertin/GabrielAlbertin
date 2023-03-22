@@ -15,6 +15,8 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlbertin&layout=compact&theme=transparent"/>
 </div>
 
+![Snake animation](https://github.com/GabrielAlbertin/GabrielAlbertin/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center">
 
 ## 🤹 Minhas habilidades
@@ -22,6 +24,4 @@
 <br>
 
 ![My Skills](https://skills.thijs.gg/icons?i=js,ts,html,css,nextjs,react,tailwind)
-
-![Snake animation](https://github.com/GabrielAlbertin/GabrielAlbertin/blob/output/github-contribution-grid-snake.svg)
 
