@@ -4,6 +4,8 @@
 - ⚡ Estudando Typescript e Tailwilndcss
 - 👐 Pronomes: ele/dele
 
+Portifólio: https://gabriel-albertin.netlify.app/
+
 
 ## Conecte-se comigo
 <a href="https://www.linkedin.com/in/gabriel-albertin-19baa0206/4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
