@@ -4,7 +4,7 @@
 - ⚡ Estudando Typescript e Tailwilndcss
 - 👐 Pronomes: ele/dele
 
-Portifólio: https://gabriel-albertin.netlify.app/
+Portfólio: https://gabriel-albertin.netlify.app/
 
 
 ## Conecte-se comigo
