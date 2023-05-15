@@ -13,8 +13,8 @@ Portfólio: https://gabriel-albertin.netlify.app/
 
 ## Github Status
 <div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielAlbertin&show_icons=true&theme=transparent"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlbertin&layout=compact&theme=transparent"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielAlbertin&show_icons=true&theme=transparent"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielAlbertin&layout=compact&theme=transparent"/>
 </div>
 
 ![Snake animation](https://github.com/GabrielAlbertin/GabrielAlbertin/blob/output/github-contribution-grid-snake.svg)
