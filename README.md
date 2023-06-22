@@ -17,8 +17,6 @@ Portfólio: https://gabriel-albertin.netlify.app/
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielAlbertin&layout=compact&theme=transparent"/>
 </div>
 
-![Snake animation](https://github.com/GabrielAlbertin/GabrielAlbertin/blob/output/github-contribution-grid-snake.svg)
-
 <div align="center">
 
 ## 🤹 Minhas habilidades
