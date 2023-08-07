@@ -1,7 +1,7 @@
 ### Olá, bem vindo ao meu perfil! 
 
-- 🔗 Atuo como desenvolvedor front-end
-- ⚡ Estudando Typescript e Tailwilndcss
+- 🔗 Atuo como Analista de dados e Desenvolvedor Front-end
+- ⚡ Estudando Power BI e SQL
 - 👐 Pronomes: ele/dele
 
 Portfólio: https://gabriel-albertin.netlify.app/
@@ -23,6 +23,6 @@ Portfólio: https://gabriel-albertin.netlify.app/
 
 <br>
 
-![My Skills](https://skills.thijs.gg/icons?i=js,ts,html,css,nextjs,react,tailwind)
+![My Skills](https://skills.thijs.gg/icons?i=py,r,js,ts,html,css,nextjs,react,tailwind)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" />
 
