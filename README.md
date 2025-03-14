@@ -1,10 +1,29 @@
-### Olá, bem vindo ao meu perfil! 
+# 👋 Olá, eu sou Gabriel Albertin  
 
-- 🔗 Atuo como Analista de dados e Desenvolvedor Front-end
-- ⚡ Estudando Power BI e SQL
-- 👐 Pronomes: ele/dele
+📊 **Analista de Dados | Engenharia de Dados**  
 
-Portfólio: https://gabriel-albertin.netlify.app/
+🎓 **Formação**  
+- Pós-graduado em **Arquitetura de Dados** - PUC-Minas  
+- Graduado em **Engenharia de Computação** - PUC-Campinas  
+
+💼 **Atualmente:** Analista de Dados na **Ambev**  
+💡 **Interesses:** Engenharia de Dados, Pipelines de Dados, Cloud, Observabilidade  
+
+## 🚀 Tecnologias & Ferramentas  
+
+### 🔹 **Linguagens & Frameworks**  
+- **Python**: Pandas, PySpark, FastAPI, SQLAlchemy  
+- **SQL**: PostgreSQL, MySQL, BigQuery, Redshift  
+- **Bash & Shell Script**  
+
+### 🔹 **Pipelines & Orquestração**  
+- Apache **Airflow**
+- Apache **Spark**Databricks  
+
+### 🔹 **Cloud & DevOps**  
+- **AWS**: S3, Glue, Lambda, ECS  
+- **GCP**: BigQuery, Dataflow  
+- Docker, CI/CD  
 
 
 ## Conecte-se comigo
@@ -18,11 +37,4 @@ Portfólio: https://gabriel-albertin.netlify.app/
 </div>
 
 <div align="center">
-
-## 🤹 Minhas habilidades
-
-<br>
-
-![My Skills](https://skills.thijs.gg/icons?i=py,r,js,ts,html,css,nextjs,react,tailwind)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" />
 
