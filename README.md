@@ -25,16 +25,13 @@
 - **GCP**: BigQuery, Dataflow  
 - Docker, CI/CD  
 
+## 📈 Estatísticas  
 
-## Conecte-se comigo
-<a href="https://www.linkedin.com/in/gabriel-albertin-19baa0206/4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:gabriel.albertin26@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)  
 
-## Github Status
-<div align="center">
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielAlbertin&show_icons=true&theme=transparent"/>
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielAlbertin&layout=compact&theme=transparent"/>
-</div>
+##📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GabrielAlbertin-blue?logo=linkedin)](https://www.linkedin.com/in/gabriel-albertin-19baa0206)  
+[![GitHub](https://img.shields.io/badge/GitHub-GabrielAlbertin-black?logo=github)](https://github.com/GabrielAlbertin)  
 
-<div align="center">
 
