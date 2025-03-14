@@ -25,13 +25,15 @@
 - **GCP**: BigQuery, Dataflow  
 - Docker, CI/CD  
 
-## 📈 Estatísticas  
+## 📫 Contato  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)  
-
-##📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GabrielAlbertin-blue?logo=linkedin)](https://www.linkedin.com/in/gabriel-albertin-19baa0206)  
-[![GitHub](https://img.shields.io/badge/GitHub-GabrielAlbertin-black?logo=github)](https://github.com/GabrielAlbertin)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-perfil/">
+    <img src="https://img.shields.io/badge/LinkedIn-GabrielAlbertin-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/seu-usuario">
+    <img src="https://img.shields.io/badge/GitHub-GabrielAlbertin-black?logo=github" alt="GitHub">
+  </a>
+</p>
 
 
