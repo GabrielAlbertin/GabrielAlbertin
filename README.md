@@ -26,14 +26,7 @@
 - Docker, CI/CD  
 
 ## 📫 Contato  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil/">
-    <img src="https://img.shields.io/badge/LinkedIn-GabrielAlbertin-blue?logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/seu-usuario">
-    <img src="https://img.shields.io/badge/GitHub-GabrielAlbertin-black?logo=github" alt="GitHub">
-  </a>
-</p>
+- **LinkedIn:** [Gabriel Albertin](https://www.linkedin.com/in/gabriel-albertin-19baa0206/)  
+- **GitHub:** [GabrielAlbertin](https://github.com/GabrielAlbertin)  
 
 
